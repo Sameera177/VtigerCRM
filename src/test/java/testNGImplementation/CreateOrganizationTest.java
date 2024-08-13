@@ -12,7 +12,7 @@ import objRepo.OrganizationInformationPage;
 import objRepo.OrganizationsPage;
 
 
-//This  test validates if user created new Organization 
+// validates if new organization is created 
 public class CreateOrganizationTest extends BaseClass
 {
 	@Test(groups = "organizations")
