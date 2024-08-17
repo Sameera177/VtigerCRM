@@ -16,6 +16,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
+//This is an interview script
 public class TestScript 
 {
 	@Test
