@@ -12,7 +12,7 @@ import objRepo.DuplicatingPage;
 import objRepo.LeadInformationPage;
 import objRepo.LeadsPage;
 
-//This test verifies if user is able to create and duplicate lead
+//This test verifies if user is able to create and duplicate leads
 public class CreateAndDuplicateLeadTest extends BaseClass {
 
 	@Test(groups = "leads")
