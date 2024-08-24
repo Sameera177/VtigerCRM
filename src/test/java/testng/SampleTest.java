@@ -2,7 +2,7 @@ package testng;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-
+// it is a sample test
 public class SampleTest 
 {
 	@Test
