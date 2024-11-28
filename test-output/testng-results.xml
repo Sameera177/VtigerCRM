@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-28T09:47:32 IST" name="Default suite" finished-at="2024-11-28T09:48:52 IST" duration-ms="79670">
+  <suite started-at="2024-11-28T10:03:38 IST" name="Default suite" finished-at="2024-11-28T10:05:02 IST" duration-ms="83870">
     <groups>
     </groups>
-    <test started-at="2024-11-28T09:47:32 IST" name="Default test" finished-at="2024-11-28T09:48:52 IST" duration-ms="79670">
-      <class name="fitpeoScript.TestScript">
-        <test-method signature="fitPeoTest()[pri:0, instance:fitpeoScript.TestScript@1da2cb77]" started-at="2024-11-28T09:47:32 IST" name="fitPeoTest" finished-at="2024-11-28T09:48:52 IST" duration-ms="79627" status="PASS">
+    <test started-at="2024-11-28T10:03:38 IST" name="Default test" finished-at="2024-11-28T10:05:02 IST" duration-ms="83870">
+      <class name="fitpeoScript.FitPeoAssignment">
+        <test-method signature="fitPeoTest()[pri:0, instance:fitpeoScript.FitPeoAssignment@1da2cb77]" started-at="2024-11-28T10:03:38 IST" name="fitPeoTest" finished-at="2024-11-28T10:05:02 IST" duration-ms="83830" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fitPeoTest -->
-      </class> <!-- fitpeoScript.TestScript -->
+      </class> <!-- fitpeoScript.FitPeoAssignment -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
