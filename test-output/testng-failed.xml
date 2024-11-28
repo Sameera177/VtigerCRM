@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng.PriorityFlagTest">
+      <class name="fitpeoScript.TestScript">
         <methods>
-          <include name="mavenParameterization"/>
+          <include name="fitPeoTest"/>
         </methods>
-      </class> <!-- testng.PriorityFlagTest -->
+      </class> <!-- fitpeoScript.TestScript -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

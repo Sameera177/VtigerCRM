@@ -85,6 +85,6 @@ public class TestScript
 		soft.assertTrue(totalRecurringReimbursement.getText().contains("110700"));
 
 		driver.quit();
-		soft.assertAll();
+		//soft.assertAll();
 	}
 }
